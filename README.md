@@ -8,25 +8,22 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 - 🌱 I'm currently learning the Backend and Server deployment in more detail.
 
-- 💼 **Years of Experience**: 
-        - 2 years of fullstack development in Commercial billing in the utilities sector.  
+- 💼 **Years of Experience**:  
+  - 2 years of fullstack development in Commercial billing in the utilities sector.  
 
-- 🎯 **Specialization**: 
-        Full-stack Development, and little bit of Android Development
+- 🎯 **Specialization**:  
+    Full-stack Development, and little bit of Android Development
 
 
 ## 🛠 Technical Skills  
 
 ### 💬 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
 
 ### 🌐 Tools and Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-[Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-[Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-!Daatbases 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 
 ## 📈 Some Stats
