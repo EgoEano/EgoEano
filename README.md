@@ -28,14 +28,14 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoEano&layout=compact&theme=radical)  
 
-<!-->
+<!--
 ## 📂 Featured Projects  
 ### 🔗 [Project Name 1](https://github.com/yourusername/project1)  
 > *Brief description:* A web application that [does something impactful].  
 - 🛠 **Tech Stack**: React, Node.js, PostgreSQL.  
 - 🌟 **Key Features**: Authentication, real-time updates, responsive UI.  
 - 🚀 **Live Demo**: [Live Link](https://demo-link.com).  
-</!-->
+-->
 
 ## 📌 Pinned Repositories
 
