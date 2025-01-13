@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 - 🌱 I'm currently learning the Backend and Server deployment in more detail.
 
-- 💼 **Years of Experience**:  
+- 💼 **Years of Experience**: 
   - 2 years of fullstack development in Commercial billing in the utilities sector.  
 
 - 🎯 **Specialization**:  
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 ## 🛠 Technical Skills  
 
-### 💬 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+### 💬 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat&logoWidth=30) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat&logoWidth=30) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat&logoWidth=30)
 
 ### 🌐 Tools and Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
