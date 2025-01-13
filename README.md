@@ -18,7 +18,11 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 ## 🛠 Technical Skills  
 
 ### 💬 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat&logoWidth=30) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat&logoWidth=30) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat&logoWidth=30)
+
+![C#](https://img.shields.io/badge/-C%23-886ce3?logo=sharp&logoColor=white&style=for-the-badge&logoWidth=30) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=30) ![TypeScript](https://img.shields.io/badge/-TypeScript-1e3deb?logo=typescript&logoColor=black&style=for-the-badge&logoWidth=30)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30) ![Java](https://img.shields.io/badge/-Java-e66f00?logo=gitea&logoColor=blue&style=for-the-badge&logoWidth=30)
+
+![HTML5](https://img.shields.io/badge/-HTML5-f0f0f0?logo=html5&logoColor=e66f00&style=for-the-badge&logoWidth=30) ![CSS](https://img.shields.io/badge/-CSS3-f0f0f0?logo=css3&logoColor=006cb4&style=for-the-badge&logoWidth=30)
+
 
 ### 🌐 Tools and Frameworks  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
