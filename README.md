@@ -25,32 +25,9 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 
 ### 🌐 Tools and Frameworks  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
-
-## 🌐 Languages, Tools, Frameworks
-![C#](https://img.shields.io/badge/-C%23-886ce3?logo=sharp&logoColor=white&style=for-the-badge&logoWidth=30)  
-    ![.NET](https://img.shields.io/badge/-.NET-4d2acd?logo=dotnet&logoColor=ffffff&style=for-the-badge&logoWidth=30), ![EntityFramework](https://img.shields.io/badge/-Entity%20Framework-076eb2?style=for-the-badge&logoWidth=30)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=30)  
-    ![Jquery](https://img.shields.io/badge/-jquery-076eae?logo=jquery&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![Knockout](https://img.shields.io/badge/-Knockout.js-780000?logo=keenetic&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-1e3deb?logo=typescript&logoColor=black&style=for-the-badge&logoWidth=30)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)  
-![Java](https://img.shields.io/badge/-Java-e66f00?logo=gitea&logoColor=blue&style=for-the-badge&logoWidth=30)  
-
-![HTML5](https://img.shields.io/badge/-HTML5-f0f0f0?logo=html5&logoColor=e66f00&style=for-the-badge&logoWidth=30)  
-![CSS](https://img.shields.io/badge/-CSS3-f0f0f0?logo=css3&logoColor=006cb4&style=for-the-badge&logoWidth=30)  
-    ![TailWind](https://img.shields.io/badge/-Tailwind-3652f0?logo=tailwindcss&logoColor=ffffff&style=for-the-badge&logoWidth=30)  
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![NPM](https://img.shields.io/badge/-NPM-c53535?logo=npm&logoColor=ffffff&style=for-the-badge&logoWidth=30)  
-
-![Webpack](https://img.shields.io/badge/-webpack-f1f1f1?logo=webpack&logoColor=blue&style=for-the-badge&logoWidth=30)  
-  
-![MVC](https://img.shields.io/badge/-MVC-f0f0f0?logo=mega&logoColor=7248b6&style=for-the-badge&logoWidth=30) ![Flux](https://img.shields.io/badge/-flux-f0f0f0?logo=flux&logoColor=7248b6&style=for-the-badge&logoWidth=30) ![Redux](https://img.shields.io/badge/-redux-f0f0f0?logo=redux&logoColor=7248b6&style=for-the-badge&logoWidth=30)
-
-![MS SqlServer](https://img.shields.io/badge/-ms%20sql%20server-c7c7c7?logo=amazondocumentdb&logoColor=ff0000&style=for-the-badge&logoWidth=30) ![SqLite](https://img.shields.io/badge/-sqlite-003a55?logo=sqlite&logoColor=ffffff&style=for-the-badge&logoWidth=30)
+![.NET](https://img.shields.io/badge/-.NET-4d2acd?logo=dotnet&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![EntityFramework](https://img.shields.io/badge/-Entity%20Framework-076eb2?style=for-the-badge&logoWidth=30) ![Jquery](https://img.shields.io/badge/-jquery-076eae?logo=jquery&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![Knockout](https://img.shields.io/badge/-Knockout.js-780000?logo=keenetic&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![TailWind](https://img.shields.io/badge/-Tailwind-3652f0?logo=tailwindcss&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![NPM](https://img.shields.io/badge/-NPM-c53535?logo=npm&logoColor=ffffff&style=for-the-badge&logoWidth=30) ![Webpack](https://img.shields.io/badge/-webpack-f1f1f1?logo=webpack&logoColor=blue&style=for-the-badge&logoWidth=30)  
+![MVC](https://img.shields.io/badge/-MVC-f0f0f0?logo=mega&logoColor=7248b6&style=for-the-badge&logoWidth=30) ![Flux](https://img.shields.io/badge/-flux-f0f0f0?logo=flux&logoColor=7248b6&style=for-the-badge&logoWidth=30) ![Redux](https://img.shields.io/badge/-redux-f0f0f0?logo=redux&logoColor=7248b6&style=for-the-badge&logoWidth=30) ![MS SqlServer](https://img.shields.io/badge/-ms%20sql%20server-c7c7c7?logo=amazondocumentdb&logoColor=ff0000&style=for-the-badge&logoWidth=30) ![SqLite](https://img.shields.io/badge/-sqlite-003a55?logo=sqlite&logoColor=ffffff&style=for-the-badge&logoWidth=30)
 
 
 ## 📈 Some Stats
