@@ -32,7 +32,7 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 ## 📈 Some Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoEano&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoEano&layout=compact)  
 
 <!--
 ## 📂 Featured Projects  
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! Development - is a some kind of creation. I'm pass
 
 Here are some of my notes, pet-projects and other:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EgoEano&repo=EanoOpen&theme=radical)](https://github.com/EgoEano/EanoOpen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EgoEano&repo=EanoOpen)](https://github.com/EgoEano/EanoOpen)
 
 
 ## 🌍 Let's Connect!  
